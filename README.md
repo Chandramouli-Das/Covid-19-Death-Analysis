@@ -6,3 +6,4 @@ This project is a part of #66daysofdata challenge
 This is the first project Day1 
 It is based in EDA - Explanatory Data Analysis.
 Plotly library is used for data visualization.
+Comfortable with Jupyter Notebook or Google Colab.
